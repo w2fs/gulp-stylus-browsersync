@@ -1,6 +1,6 @@
 # gulp-stylus-browsersync
 
-Willin Wang: <>
+Willin Wang: <https://www.douyu.com/200058>
 
 ## 技术、框架
 
