@@ -1,0 +1,19 @@
+{
+  "name": "gulp-stylus-browsersync",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start --server"
+  },
+  "repository": "git@github.com:w2fs/gulp-stylus-browsersync.git",
+  "author": "willin <willin@willin.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "eslint": "^3.19.0",
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "poststylus": "^0.2.3"
+  }
+}
