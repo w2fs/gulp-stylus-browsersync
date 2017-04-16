@@ -1,5 +1,7 @@
 # gulp-stylus-browsersync
 
+Willin Wang: <>
+
 ## 技术、框架
 
 * ESLint - 编码规范
@@ -27,17 +29,17 @@ npm init
 yarn add --dev eslint
 ```
 
-ESLint 配置： <http://rapilabs.github.io/eslintrc-generator/>
-Stylelint 配置： <https://maximgatilin.github.io/stylelint-config/>
+* ESLint 配置： <http://rapilabs.github.io/eslintrc-generator/>
+* Stylelint 配置： <https://maximgatilin.github.io/stylelint-config/>
 
 
 ## 参考资料
 
-Gulp API： <https://github.com/gulpjs/gulp/blob/master/docs/API.md>
-BrowserSync API: <https://www.browsersync.io/docs/api>
-Stylus: <http://stylus-lang.com/>
-SASS/SCSS: <http://sass-lang.com/guide>
-LESS: <http://lesscss.org/>
+* Gulp API： <https://github.com/gulpjs/gulp/blob/master/docs/API.md>
+* BrowserSync API: <https://www.browsersync.io/docs/api>
+* Stylus: <http://stylus-lang.com/>
+* SASS/SCSS: <http://sass-lang.com/guide>
+* LESS: <http://lesscss.org/>
 
 ## 注意的细节
 
@@ -85,3 +87,10 @@ npm run dev
 ### 3. BrowserSync+Gulp
 
 需要在 `GulpFile` 中创建 BS 服务。
+
+## License 
+
+MIT
+
+![qr](https://cloud.githubusercontent.com/assets/1890238/15489630/fccbb9cc-2193-11e6-9fed-b93c59d6ef37.png)
+
